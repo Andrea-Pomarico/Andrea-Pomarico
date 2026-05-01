@@ -2,7 +2,7 @@
 
 I’m Andrea, a PhD researcher in Electrical Engineering at Politecnico di Milano, working at the intersection of power systems, artificial intelligence, and data-driven control. My research focuses on building scalable computational tools for large-scale energy systems, with particular interest in physics-informed machine learning, dynamic security assessment, and AI automation for power grid analysis.
 
-Over the years, I’ve worked across academia and industry, collaborating with institutions such as Politecnico di Milano, Terna (Italian TSO), the University of Washington, and Forschungszentrum Jülich (Jülich research center). These experiences have allowed me to combine theoretical research with practical applications in modern power systems, from real-time stability assessment to digital twins and intelligent control frameworks. :contentReference[oaicite:0]{index=0}
+Over the years, I’ve worked across academia and industry, collaborating with institutions such as Politecnico di Milano, Terna (Italian TSO), the University of Washington, and Forschungszentrum Jülich (Jülich research center). These experiences have allowed me to combine theoretical research with practical applications in modern power systems, from real-time stability assessment to digital twins and intelligent control frameworks. 
 
 ## 🔬 Research Interests
 - Power Systems Stability and Control 
@@ -13,6 +13,7 @@ Over the years, I’ve worked across academia and industry, collaborating with i
 
 ## 📬 Contact
 andrea.pomarico@polimi.it
+
 pomarico.andrea99@gmail.com
 
 
