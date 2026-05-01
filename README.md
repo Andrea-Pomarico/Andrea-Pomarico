@@ -19,7 +19,8 @@ pomarico.andrea99@gmail.com
 ## 🤝 Connect with me
 
 - [Google Scholar](https://scholar.google.com/citations?user=Kdu0EUYAAAAJ&hl=it)
-- [LinkedIn]([https://linkedin.com/in/tuo-profilo](https://www.linkedin.com/in/andrea-pomarico-2695a2218/)
+
+- [Scopus](https://www.scopus.com/authid/detail.uri?authorId=59173761400)
 
 
 <!--
